@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 38638d8176b9fe54297944ec9b305ae9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Fence_1
+    100002: Fence_1_Door
+    100004: Fence_1_Door 1
+    100006: Fence_1_Door_Grill
+    100008: Fence_1_EletricBox
+    100010: Fence_1_Frame
+    100012: Fence_1_Frame_Grill
+    100014: Fence_1_Stick
+    100016: Fence_2
+    100018: Fence_2 1
+    100020: Fence_2_Grill
+    100022: Fence_3
+    100024: Fence_3 1
+    100026: Fence_3_Grill
+    100028: //RootNode
+    400000: Fence_1
+    400002: Fence_1_Door
+    400004: Fence_1_Door 1
+    400006: Fence_1_Door_Grill
+    400008: Fence_1_EletricBox
+    400010: Fence_1_Frame
+    400012: Fence_1_Frame_Grill
+    400014: Fence_1_Stick
+    400016: Fence_2
+    400018: Fence_2 1
+    400020: Fence_2_Grill
+    400022: Fence_3
+    400024: Fence_3 1
+    400026: Fence_3_Grill
+    400028: //RootNode
+    2100000: 'Material #25'
+    2300000: Fence_1_Door 1
+    2300002: Fence_1_Door_Grill
+    2300004: Fence_1_EletricBox
+    2300006: Fence_1_Frame
+    2300008: Fence_1_Frame_Grill
+    2300010: Fence_1_Stick
+    2300012: Fence_2 1
+    2300014: Fence_2_Grill
+    2300016: Fence_3 1
+    2300018: Fence_3_Grill
+    3300000: Fence_1_Door 1
+    3300002: Fence_1_Door_Grill
+    3300004: Fence_1_EletricBox
+    3300006: Fence_1_Frame
+    3300008: Fence_1_Frame_Grill
+    3300010: Fence_1_Stick
+    3300012: Fence_2 1
+    3300014: Fence_2_Grill
+    3300016: Fence_3 1
+    3300018: Fence_3_Grill
+    4300000: Fence_1_Frame
+    4300002: Fence_1_Door
+    4300004: Fence_1_Stick
+    4300006: Fence_1_Door_Grill
+    4300008: Fence_1_EletricBox
+    4300010: Fence_1_Frame_Grill
+    4300012: Fence_2
+    4300014: Fence_2_Grill
+    4300016: Fence_3
+    4300018: Fence_3_Grill
+    6400000: Fence_1_Door 1
+    6400002: Fence_1_Door_Grill
+    6400004: Fence_1_EletricBox
+    6400006: Fence_1_Frame
+    6400008: Fence_1_Frame_Grill
+    6400010: Fence_1_Stick
+    6400012: Fence_2 1
+    6400014: Fence_2_Grill
+    6400016: Fence_3 1
+    6400018: Fence_3_Grill
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: bf13016b52772f9419383e303732ff56, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

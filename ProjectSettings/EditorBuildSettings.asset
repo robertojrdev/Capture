@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 5d84f6ccb2d80034a93d205f9fe2bd63
+  - enabled: 0
+    path: 
+    guid: 12cb36b56749aa244b6635872a841ced
+  - enabled: 1
+    path: Assets/Scenes/Load Scene/Load Scene.unity
+    guid: e219935f2ed9b20419ab42e12bc8af69
+  - enabled: 0
+    path: Assets/Scenes/Tests/Sample Scene/Sample Scene.unity
+    guid: f16b23102da18ac45a2cfdbd67f49ce8
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Shot 05 - Bridge Puzzle/shot05.unity
+    guid: bc2f85b84a69b1e4ca804938d38b35bc
+  - enabled: 1
+    path: Assets/Scenes/Game/Main.unity
+    guid: 45386b1929aaf134cb8ecfa99c8dc8d1
+  m_configObjects: {}
